@@ -20,7 +20,8 @@
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget-feed-nightly.avaloniaui.net/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -40,23 +41,23 @@
           "dependencies": {
             "Avalonia": {
               "target": "Package",
-              "version": "[11.0.5, )"
+              "version": "[11.1.999-cibuild0042344-beta, )"
             },
             "Avalonia.Desktop": {
               "target": "Package",
-              "version": "[11.0.5, )"
+              "version": "[11.1.999-cibuild0042344-beta, )"
             },
             "Avalonia.Diagnostics": {
               "target": "Package",
-              "version": "[11.0.5, )"
+              "version": "[11.1.999-cibuild0042344-beta, )"
             },
             "Avalonia.Fonts.Inter": {
               "target": "Package",
-              "version": "[11.0.5, )"
+              "version": "[11.1.999-cibuild0042344-beta, )"
             },
             "Avalonia.Themes.Fluent": {
               "target": "Package",
-              "version": "[11.0.5, )"
+              "version": "[11.1.999-cibuild0042344-beta, )"
             }
           },
           "imports": [

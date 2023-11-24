@@ -32,9 +32,7 @@ C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\Microsoft.CodeAn
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\SkiaSharp.dll
-C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\Tmds.DBus.Protocol.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
@@ -101,7 +99,6 @@ C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\osx\nat
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
-C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\linux-arm\native\libSkiaSharp.so
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\linux-arm64\native\libSkiaSharp.so
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
@@ -110,8 +107,6 @@ C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\osx\nat
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
-C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\hacke\RiderProjects\AvaloniaBorderBug\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\obj\Debug\net6.0\AvaloniaBorderBug.csproj.AssemblyReference.cache
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\obj\Debug\net6.0\Avalonia\Resources.Inputs.cache
 C:\Users\hacke\RiderProjects\AvaloniaBorderBug\obj\Debug\net6.0\Avalonia\resources
