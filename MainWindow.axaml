@@ -1,0 +1,41 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        Width="500"
+        Height="250"
+        x:Class="AvaloniaBorderBug.MainWindow"
+        
+        CanResize="False"
+
+        ExtendClientAreaToDecorationsHint="True"
+        ExtendClientAreaChromeHints="NoChrome"
+        ExtendClientAreaTitleBarHeightHint="-1"
+        TransparencyLevelHint="Transparent"
+        Background="Transparent"
+        Topmost="True"
+        SizeToContent="WidthAndHeight"
+
+        SystemDecorations="None"
+
+        WindowStartupLocation="Manual"
+
+        UseLayoutRounding="True"
+        
+        Title="Avalonia 11 Border Bug">
+        
+    <Border Background="DimGray" BorderBrush="DarkRed"
+            Name="MainBorder"
+            Padding="10,4"
+            Height="90"
+            Width="150"
+            BorderThickness="5" CornerRadius="25">
+        <TextBlock
+            TextWrapping="Wrap"
+        >
+            How to remove the gray border
+        </TextBlock>
+    </Border>
+        
+</Window>
