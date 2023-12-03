@@ -14,12 +14,14 @@
         ExtendClientAreaTitleBarHeightHint="-1"
         TransparencyLevelHint="Transparent"
         Background="Transparent"
-        Topmost="True"
-        SizeToContent="WidthAndHeight"
-
         SystemDecorations="None"
 
-        WindowStartupLocation="Manual"
+        CornerRadius="40"
+
+        Topmost="True"
+        SizeToContent="WidthAndHeight"
+        
+        WindowStartupLocation="CenterScreen"
 
         UseLayoutRounding="True"
         
